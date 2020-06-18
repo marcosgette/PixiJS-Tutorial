@@ -6,7 +6,7 @@ Como comenzar
 PixiJS se puede instalar mediante npm o se puede usar vía CDN.
 
 1. Vía NPM 
-npm install pixi.js
+<pre>npm install pixi.js</pre>
 Luego debe importarla en su proyecto 
 import * as PIXI from 'pixi.js'
 
