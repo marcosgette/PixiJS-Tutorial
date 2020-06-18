@@ -1,7 +1,7 @@
 # PixiJS-Tutorial
 Mini tutorial acerca de la librería PixiJS
 
-Como comenzar
+<b>Como comenzar</b>
 
 PixiJS se puede instalar mediante npm o se puede usar vía CDN.
 
